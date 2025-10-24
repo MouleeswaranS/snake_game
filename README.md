@@ -1,20 +1,6 @@
 # Snake Game
 
-A classic Snake game implemented in both Python (Pygame) and Web (HTML/CSS/JavaScript) versions.
-
-## Python Version
-
-Build a snake game using Python and Pygame.
-
-### Requirements
-
-- Python 3.x
-- Pygame
-
-### How to Run
-
-1. Install Pygame: `pip install pygame`
-2. Run the game: `python "snake game.py"`
+A classic Snake game implemented in Web (HTML/CSS/JavaScript) for deployment on Vercel.
 
 ## Web Version
 
@@ -36,6 +22,6 @@ The web version is built using HTML5 Canvas, CSS, and JavaScript for deployment 
 
 - Classic Snake gameplay
 - Score tracking
-- High score persistence (localStorage for web, file for Python)
+- High score persistence (localStorage for web)
 - Responsive controls
 - Game over and restart functionality
