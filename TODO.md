@@ -5,4 +5,4 @@
 - [x] Create script.js: Port the game logic from Python to JavaScript, including snake movement, apple generation, collision detection, scoring, and high score using localStorage.
 - [x] Update README.md: Add instructions for running the web version and deployment.
 - [x] Test the web version locally (open index.html in browser).
-- [ ] Deploy to Vercel by pushing to GitHub and connecting the repo.
+- [x] Deploy to Vercel by pushing to GitHub and connecting the repo.
